@@ -1,6 +1,3 @@
-
-
-```markdown
 # Dashboard Interativo de Análise de Vendas
 
 Dashboard interativo de Business Intelligence (BI) desenvolvido com **Streamlit**, utilizando dados reais de vendas para gerar insights estratégicos sobre desempenho comercial, mix de produtos, logística e distribuição geográfica.
@@ -200,5 +197,6 @@ Se quiser, posso agora:
 * Revisar o projeto como se fosse um **recrutador**
 
 👉 Qual próximo passo?
+
 
 
