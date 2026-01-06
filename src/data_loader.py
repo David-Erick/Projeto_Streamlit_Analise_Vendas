@@ -9,6 +9,7 @@ def load_data(path: str) -> pd.DataFrame:
         .str.strip()
         .str.lower()
         .str.replace(" ", "_")
+        .str.replace("-", "_")
     )
 
     # Converter data corretamente
