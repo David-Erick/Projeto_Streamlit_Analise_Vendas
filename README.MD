@@ -42,16 +42,27 @@ O resultado é uma ferramenta que transforma dados brutos em **informação acio
 
 Projeto_Streamlit_Analise_Vendas/
 ├── app.py
+
 ├── pages/
+
 │   └── 2_Insights_e_Performance.py
+
 ├── src/
+
 │   ├── data_loader.py
+
 │   ├── filters.py
+
 │   └── kpis.py
+
 ├── data/
+
 │   └── superstore.csv
+
 ├── venv/
+
 ├── requirements.txt
+
 └── README.md
 
 ````
@@ -189,4 +200,5 @@ Se quiser, posso agora:
 * Revisar o projeto como se fosse um **recrutador**
 
 👉 Qual próximo passo?
+
 
