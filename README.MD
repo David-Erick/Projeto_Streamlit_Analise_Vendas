@@ -39,27 +39,16 @@ O resultado é uma ferramenta que transforma dados brutos em **informação acio
 
 Projeto_Streamlit_Analise_Vendas/
 ├── app.py
-
 ├── pages/
-
 │   └── 2_Insights_e_Performance.py
-
 ├── src/
-
 │   ├── data_loader.py
-
 │   ├── filters.py
-
 │   └── kpis.py
-
 ├── data/
-
 │   └── superstore.csv
-
 ├── venv/
-
 ├── requirements.txt
-
 └── README.md
 
 ````
@@ -154,49 +143,3 @@ O aplicativo será aberto automaticamente no navegador.
 **David Erick**
 Graduando em Sistemas de Informação
 Interesses: Business Intelligence, Ciência de Dados, IoT e Engenharia de Software
-
----
-
-## Licença
-
-Este projeto é destinado a fins educacionais e de aprendizado.
-
-````
-
----
-
-## 🏆 O QUE FOI CORRIGIDO
-
-✔ Markdown **100% padrão GitHub**  
-✔ Sem HTML embutido  
-✔ Emojis apenas em texto simples (evitados em headers)  
-✔ Blocos de código corretamente fechados  
-✔ Estrutura clara e escaneável  
-✔ Compatível com dark/light mode do GitHub  
-
----
-
-## 🔥 DICA DE OURO (PORTFÓLIO)
-
-Depois disso, recomendo:
-1. Adicionar **prints do dashboard** (pasta `/assets`)
-2. Inserir imagens no README assim:
-   ```markdown
-   ![Dashboard](assets/dashboard.png)
-````
-
-3. Criar um **commit limpo só do README**
-
----
-
-Se quiser, posso agora:
-
-* Ajustar o texto para **perfil de estágio/júnior**
-* Criar versão em **inglês**
-* Sugerir **commits ideais**
-* Revisar o projeto como se fosse um **recrutador**
-
-👉 Qual próximo passo?
-
-
-
