@@ -4,6 +4,7 @@ Dashboard interativo de Business Intelligence (BI) desenvolvido com **Streamlit*
 
 Este projeto foi criado com foco em **boas práticas de engenharia de dados, visualização e organização de código**, sendo adequado para fins acadêmicos, profissionais e portfólio técnico.
 
+(https://youtu.be/dq7dN1vVeko)
 ---
 
 ## Visão Geral do Projeto
@@ -143,3 +144,4 @@ O aplicativo será aberto automaticamente no navegador.
 **David Erick**
 Graduando em Sistemas de Informação
 Interesses: Business Intelligence, Ciência de Dados, IoT e Engenharia de Software
+
