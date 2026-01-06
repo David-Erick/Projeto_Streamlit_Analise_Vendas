@@ -1,7 +1,7 @@
 
 
 ```markdown
-# 📊 Dashboard Interativo de Análise de Vendas com Streamlit
+#📊 Dashboard Interativo de Análise de Vendas com Streamlit
 
 ## 🔎 Visão Geral e Valor do Projeto
 
@@ -163,3 +163,4 @@ Graduando em Sistemas de Informação
 Interesses: Gestão de Projetos/Produtos, Ciência de Dados, Business Intelligence, IoT, Analytics e Engenharia de Software, 
 
 ---
+
